@@ -21,13 +21,12 @@ To get started with these projects:
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/yamneg96/10_JS_Projects/tree/main
     ```
-2.  **Navigate to the project directory:**
+2.  **Navigate to the project directory: (For eg. 1st Project)**
     ```bash
-    cd <project_directory>
+    cd "1. Project-1-FD-Calculator-Web"
     ```
-    Replace `<project_directory>` with the name of the specific project you want to explore. For example: `cd Project-1-FD-Calculator-Web`
 3.  **Open the `index.html` file in your web browser.** 🌐
 
 ## Technologies Used 💻
@@ -50,6 +49,6 @@ If you'd like to contribute to these projects, please follow these steps:
 
 ## Contact 📧
 
-If you have any questions or feedback, please feel free to contact me at [your_email@example.com](mailto:your_email@example.com).
+If you have any questions or feedback, please feel free to contact me at [your_email@example.com](yamlaknegash@gmail.com).
 
 Enjoy building! 🎉
