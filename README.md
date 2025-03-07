@@ -49,6 +49,6 @@ If you'd like to contribute to these projects, please follow these steps:
 
 ## Contact 📧
 
-If you have any questions or feedback, please feel free to contact me at [your_email@example.com](yamlaknegash@gmail.com).
+If you have any questions or feedback, please feel free to contact me at [yamlaknegash@gmail.com](yamlaknegash@gmail.com).
 
 Enjoy building! 🎉
